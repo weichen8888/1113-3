@@ -1,1 +1,11 @@
-lib/
+# Java
+*.class
+*.jar
+*.log
+
+# VSCode / IntelliJ
+.vscode/
+.idea/
+
+# OS
+.DS_Store
